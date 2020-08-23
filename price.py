@@ -16,5 +16,4 @@ b1 = b-(b*0.001)
 tr = b-s
 tb = (b*0.001+s*0.001)
 print("lucro: "+str(tr-tb)+" taxa: "+str(tb))
-diogo = 0
-sw=""
+
